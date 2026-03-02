@@ -1,0 +1,12 @@
+.circle-list{
+	list-style-type: disc;
+	font-family: arial;
+}
+
+.square-list{
+	list-style-type: square;
+	font-family: arial;
+}
+p{
+	font-family: arial;
+}
